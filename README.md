@@ -1,5 +1,5 @@
 # 💫 About Me:
-###- 🎓 IT Graduate & Backend Developer focused on **ASP.NET Core**.<br>- 💻 Working with **C#, .NET, SQL Server & Entity Framework Core**.<br>- 🚀 Built the backend, RESTful APIs, and database design.<br>- 🌱 Exploring **JavaScript, React, Next.js, Node.js & Flutter**.<br>- 🛠️ Passionate about building things from scratch and watching them evolve.<br>- 🎯 Always learning, experimenting, and turning ideas into real projects.
+##- 🎓 IT Graduate & Backend Developer focused on **ASP.NET Core**.<br>- 💻 Working with **C#, .NET, SQL Server & Entity Framework Core**.<br>- 🚀 Built the backend, RESTful APIs, and database design.<br>- 🌱 Exploring **JavaScript, React, Next.js, Node.js & Flutter**.<br>- 🛠️ Passionate about building things from scratch and watching them evolve.<br>- 🎯 Always learning, experimenting, and turning ideas into real projects.
 
 
 ## 🌐 Socials:
