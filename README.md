@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=fekril&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=fekril&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fekril&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fekril&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=fekril&label=Profile%20Views&color=blueviolet&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
