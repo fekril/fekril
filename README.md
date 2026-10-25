@@ -13,6 +13,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fekril&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fekril&icon=0&color=1)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=fekril&label=Profile%20Views&color=blueviolet&style=flat)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
